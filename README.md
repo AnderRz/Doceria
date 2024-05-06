@@ -1,2 +1,2 @@
 # Doceria
-Este projeto é um website da doceria doce vida
+Este projeto é um website da Doceria Doce Vida.
